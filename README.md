@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yildiz-mehmet&label=Profile%20views&color=0e75b6&style=flat" alt="yildiz-mehmet" /> </p>
 
-- 🔭 I’m currently working on **Dashboard**
+- 🔭 I’m currently working on **A construction company's website**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native and NODEJS**
 
 - 💬 Ask me about **React**
 
