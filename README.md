@@ -135,7 +135,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="410" src="[https://i.imgflip.com/65efzo.gif](https://64964065991e3f0b6be56f4c--comforting-sawine-7959df.netlify.app/static/media/1.c04821f92acca54d2d4c.mp4)"  />
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -149,7 +149,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="410" src="https://64964065991e3f0b6be56f4c--comforting-sawine-7959df.netlify.app/static/media/1.c04821f92acca54d2d4c.mp4"  />
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
