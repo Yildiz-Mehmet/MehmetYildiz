@@ -1,14 +1,12 @@
-<p align="left">Hi 👋, I'm Mehmet YILDIZ</p>
+<h1 align="center">Hi 👋, I'm Mehmet YILDIZ</h1>
 
 ###
 
-<p align="left">A passionate Fullstack developer from Turkey</p>
+<p align="center">A passionate Fullstack developer from Turkey</p>
 
 ###
 
-<div align="right">
-  <img height="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
-</div>
+<img align="right" height="200" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 ###
 
@@ -16,13 +14,9 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">I’m currently learning React Native</p>
 
 ###
-
-<br clear="both">
 
 <p align="left">🔭 I’m currently working on **A construction company's website**</p>
 
@@ -140,106 +134,106 @@
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<p align="left">Hello World!!</p>
+<p align="center">Hello World!!</p>
 
 ###
 
 <br clear="both">
 
-<div align="right">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="center">
+  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
