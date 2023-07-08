@@ -150,7 +150,9 @@
 
 ###
 
+<br clear="both">
 
+<p align="left">https://64963dbcfd42ee09e5c83f2f--teal-maamoul-725f90.netlify.app/<br><br> -React functional components and their reusability - React file<br>                and folder structure - Material UI (version 5) - Perfectly<br>                placed media queries for satisfactory responsiveness on all<br>                devices - And most importantly, fetching data from unlimited<br>                sources using RapidAPI.</p>
 
 ###
 
