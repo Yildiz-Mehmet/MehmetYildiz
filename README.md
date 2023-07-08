@@ -134,107 +134,19 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="center">https://64962db5f4f57400bc9b5aa2--spectacular-souffle-e70dbd.netlify.app/<br><br>(REACT)-(REACT_ROUTER_DOM)-(MUİ)-(REDUX_TOOLKİT)-(FORMİK-YUP)-(REDUX_PERSİST)-(BACKEND_DJANGO)</p>
 
 ###
 
 <br clear="both">
 
-<p align="center">Hello World!!</p>
+<p align="center">https://64963ac093d70708d61f1df4--willowy-nasturtium-77ecae.netlify.app/<br><br><br>(REACT)-(REACT_ROUTER_DOM)-(REACT_CONTEXT_API)-(FIREBASE)</p>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="410" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="center">https://yildiz-mehmet.github.io/y-ld-z-tec/<br><br>PURE JAVASCRIPT</p>
 
 ###
 
